@@ -5,7 +5,7 @@
 To design and develop an Event Registration & Ticketing System (ERTS) that enables multi-role access for Admins, Organizers, and Attendees. The system must support event creation, registration, ticketing, reporting, and secure communication, applying Java Swing UI, MVC architecture, MySQL integration, and security best practices.
 OVERVIEW
 
-###User Roles & Core Capabilities
+### User Roles & Core Capabilities
 
 The system will support three user roles:
 
